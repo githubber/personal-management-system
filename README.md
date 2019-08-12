@@ -6,23 +6,23 @@
 </p>
 
 <h1 align="center"> Personal Management System</h1>
-<p align="center"><i>Your central point for managing personall data <br> (if current modules allow to do that).</i></p>
+<p align="center"><i>Your central point for managing personal data <br> (if current modules allow).</i></p>
 
 <h3>Description</h3>
 <hr>
 <p align="justify">
-	It's easier to understand this web application when You think about CMS (WordPress) or CRM (SugarCRM), logic behind this system is very similar to those two. My PMS may offer less possibilities than those systems above, but It just do what I want it to do. Besides writing extensions is not so hard, depending on logic behind. Anyone with proper development knowledge can pretty much write his/her own extensions for personal needs.
+	It is easier to understand this web application when you think about a CMS (WordPress) or a CRM (SugarCRM), as the logic behind this web app is very similar to those two. My PMS may offer less possibilities than a cms or crm, but it does just what I want it to do. Besides, writing extensions is not so hard, depending on the underlying logic. Anyone with proper development knowledge can write their own extensions for personal needs.
 </p>
 
 <h3>Reasoning/Purpose</h3>
 <hr>
 
 <p align="justify">
-    I decided to create my own system, because first of all playing around with tones of plugins for WordPress and writing customization to some existing CRMs would take me as much time as writing my own system and therefore by knowing the logic from core it's easier for me to write extensions and add additional modules - whichever i just need.
+    I decided to create my own system because, first of all, playing around with tons of plugins for WordPress and customizing existing CRMs would take me as much time as writing my own system. It's easier for me to write extensions and add additional modules, whichever I just need, if I write my own app, thereby already being familair with the underlying logic.
 </p>
 
 <p align="justify">
-    Second of all, there is no system like that, and i didn't wanted to end up integrating  docker based cloud with CMS. Furthermore i just need application like that to keep organized and I'm really tired of having some very personal data on OneDrive, other on Google cloud. Some notes here, some notes there. The end goal is having an application running on terminal or raspberry 24/7 plugged into home network, without access to internet.
+    Second of all, there is no current system like that, and I did not want to end up integrating  a docker-based cloud with a CMS. Furthermore I just need a web app to keep organized, and I'm tired of having personal data on OneDrive, and on Google's cloud. Some notes here, some notes there. The end goal is having a web app running on terminal or a Raspberry 24/7 plugged into a home network, without internet access.
 </p>
 
 <h3>Available options and modules</h3>
